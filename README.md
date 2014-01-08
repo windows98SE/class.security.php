@@ -1,10 +1,13 @@
 <h1>class.security.php</h1>
-===========<br />
-filter PHP input  ($_GET $_POST $_COOKIE $_REQUEST $argv)<br />
-===========<br /><br /><br />
+<pre>
+===========
+filter PHP input  ($_GET $_POST $_COOKIE $_REQUEST $argv)
+===========
 
-<?php
+#usage.
+&lt;?php
 require_once('class.security.php');
 
 //code here
-?>
+?&gt;
+</pre>
